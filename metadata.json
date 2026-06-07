@@ -1,0 +1,6 @@
+{
+  "name": "EcoScan AI",
+  "description": "Smart Waste Detection & Reporting System using AI-powered classification, interactive community mapping, and cleanup gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
